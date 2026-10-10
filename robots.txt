@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://khanhphamrehab.github.io/xile-and-rehab/sitemap.xml
